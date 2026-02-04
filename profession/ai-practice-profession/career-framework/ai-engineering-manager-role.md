@@ -31,7 +31,7 @@ Unlike a standard SWE team, an AI team is heterogeneous. The DSM must:
 
 ---
 
-## Competencies for AI EMs
+## Competencies for DSMs
 
 | Competency | Description |
 | :--- | :--- |
@@ -39,6 +39,6 @@ Unlike a standard SWE team, an AI team is heterogeneous. The DSM must:
 | **Data Strategy** | Understanding data acquisition, labeling costs, and privacy implications (GDPR/PDPA). |
 | **Full-Stack Awareness** | Sufficient knowledge of the modern AI stack (Vector DBs, Orchestration, GPUs) to make architectural decisions. |
 
-## Transitioning to AI EM
+## Transitioning to DSM
 
 We encourage Senior/Staff Data Scientists and AI Engineers (Grade I+) to transition into this role. The transition requires a shift from "optimizing model accuracy" to "optimizing team throughput and business impact."

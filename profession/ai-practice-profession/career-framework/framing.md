@@ -21,7 +21,7 @@ We look for these four specific traits during the process:
 4.  **🌟 Depth:** Mastery over specific specialized topics (The "M" shape).
 
 ### The Shift in Assessment
-*   **Old Way:** Take-home datasets that take 1 week (High drop-off, easy to cheat).
-*   **New Way:** Live Case Studies and Problem Decomposition sessions.
+-   **Old Way:** Take-home datasets that take 1 week (High drop-off, easy to cheat).
+-   **New Way:** Live Case Studies and Problem Decomposition sessions.
 
 We value the **process of thinking** over the syntax of the solution.

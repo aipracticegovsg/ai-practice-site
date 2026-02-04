@@ -6,7 +6,7 @@ This documentation establishes a standardized, rigorous, and practical interview
 
 **Key Features:**
 
--   **Archetype-Specific Tracks:** tailored assessments for Research, Applied, and AI Engineering roles.
+-   **Archetype-Specific Tracks:** Tailored assessments for Research, Applied, and AI Engineering roles.
 -   **Practical Over Theoretical:** Focus on "live" problem solving and case studies rather than rote memorization of algorithms.
 -   **Two-Way Evaluation:** Peer discussions that allow candidates to teach us, ensuring deep technical alignment.
 

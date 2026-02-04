@@ -1,9 +1,4 @@
-title: Overview
-sidebar:
-  order: 1
----
-
-![AI Interview Overview](./ai-interview-intro.png)
+# Interview Process Overview
 
 Welcome to GovTech's Data Science & AI Engineering Interview Process.
 
@@ -16,20 +11,19 @@ This documentation establishes a standardized, rigorous, and practical interview
 
 ## Documentation Structure
 
-- [Framing & Rationale](/interview-process/framing/)
-  → Why we focus on agility, pace, and depth.
-- [Process Overview](/interview-process/process-overview/)
+- [Process Overview](process-overview.md)
   → The stages: Screening, Technical Assessment, Case Studies, and Fit.
-- [Assessment Details](/interview-process/assessment-details/)
+- [Assessment Details](assessment-details.md)
   → Deep dive into the "Live Case Study" and "Peer Discussion" formats.
-- [Implementation](/interview-process/implementation/)
+- [Implementation](implementation.md)
   → Panel composition and scoring rubrics.
+- [Training & FAQ](training-and-faq.md)
+  → Training resources and frequently asked questions.
+- [Special Considerations](special-considerations.md)
+  → Special cases and exceptions.
 
 ## Who is this for?
 Hiring Managers and Interviewers within the Data Science & AI Practice looking to hire for:
 *   Data Scientists (Research/Applied)
 *   AI Engineers
 *   AI Engineering Managers
-```
-
-```markdown

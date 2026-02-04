@@ -15,7 +15,7 @@ This documentation provides comprehensive guidance for:
 
 Learn about GovTech's approach to growing, supporting, and evaluating Data Scientists, AI Engineers, and AI Leaders.
 
-[Explore Career Framework →](career-framework/)
+[Explore Career Framework →](career-framework/index.md)
 
 Key topics:
 - The "M-shaped" Scientist/Engineer philosophy
@@ -27,7 +27,7 @@ Key topics:
 
 Discover our standardized, rigorous, and practical interview process for Data Scientists and AI Engineers.
 
-[View Interview Process →](interview-process/)
+[View Interview Process →](interview-process/index.md)
 
 Key topics:
 - Archetype-specific assessment tracks

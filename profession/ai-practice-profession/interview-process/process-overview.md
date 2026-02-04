@@ -1,7 +1,4 @@
-title: Process Overview
-sidebar:
-  order: 3
----
+# Process Overview
 
 ## The Interview Process
 
@@ -50,6 +47,3 @@ The process differs slightly based on the **Archetype** (Research/Applied vs. AI
 | **Live Case Study** | 1.5 - 2 hours | Senior Engineer/Scientist | Assess "Agility" and "Pace". |
 | **Peer Discussion** | 1 hour | Domain Expert | Assess "Depth" and Specialization. |
 | **Fit Discussion** | 1 hour | Hiring Manager | Team fit & Soft skills. |
-```
-
-```markdown

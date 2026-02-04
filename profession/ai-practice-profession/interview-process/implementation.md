@@ -1,7 +1,4 @@
-title: Implementation
-sidebar:
-  order: 6
----
+# Implementation
 
 ## Interview Panel Composition
 
@@ -30,6 +27,3 @@ After all rounds, the panel convenes.
 *   **Review:** Discuss the "4 Signals" (Agility, Pace, Baseline, Depth).
 *   **Consensus:** Was the "Baseline" met? Was the "Depth" sufficient for the specific role?
 *   **Leveling:** Does the candidate fit the applied grade, or should they be leveled up/down?
-```
-
-```markdown

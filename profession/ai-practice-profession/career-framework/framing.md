@@ -1,7 +1,4 @@
-title: Framing & Rationale
-sidebar:
-  order: 2
----
+# Framing & Rationale
 
 ## Framing: Modernized Hiring for 2026
 
@@ -28,6 +25,3 @@ We look for these four specific traits during the process:
 *   **New Way:** Live Case Studies and Problem Decomposition sessions.
 
 We value the **process of thinking** over the syntax of the solution.
-```
-
-```markdown

@@ -1,7 +1,4 @@
-title: Redefining DS & AI Roles
-sidebar:
-  order: 3
----
+# Redefining DS & AI Roles
 
 **Status**: Aligned for 2026 Profession Track Update
 
@@ -69,6 +66,3 @@ Every role requires a **Baseline** in all three domains, but **Specialization** 
 *   **Statistics:** Pass basic hypothesis testing and probability checks.
 
 *Note: We provide self-testing quizzes for these baselines. If you don't know it, learn it now.*
-```
-
-```markdown

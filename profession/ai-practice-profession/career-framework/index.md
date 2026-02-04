@@ -1,9 +1,6 @@
-title: Overview
-sidebar:
-  order: 1
----
+# Career Framework Overview
 
-Welcome to GovTech’s Data Science & AI Engineering Career Framework.
+Welcome to GovTech's Data Science & AI Engineering Career Framework.
 
 This documentation defines how we grow, support, and evaluate Data Scientists, AI Engineers, and AI Leaders — with clarity, fairness, and alignment to our evolving mission in the age of Artificial Intelligence.
 
@@ -28,11 +25,11 @@ Each framework includes:
 
 ## 📘 Framing
 
-- [Framing](/career-framework/framing/)
+- [Framing](framing.md)
   → Why we updated the track for 2026: The shift from generalist data science to specialized AI engineering.
-- [Redefining DS & AI Roles](/career-framework/redefine-data-ai-roles/)
+- [Redefining DS & AI Roles](redefine-data-ai-roles.md)
   → The three archetypes: Research Scientist, Applied Scientist, and AI Engineer.
-- [AI Engineering Manager Role](/career-framework/ai-engineering-manager-role/)
+- [AI Engineering Manager Role](ai-engineering-manager-role.md)
   → Role definition: Managing uncertainty, bridging research to production, and leading high-velocity AI teams.
 
 ---
@@ -58,6 +55,3 @@ We value deep expertise. Our framework is built on the philosophy that while you
 The field of AI changes weekly. This framework is designed to be adaptive. We welcome input to keep our competencies relevant to industry developments (e.g., Agentic Systems, Multimodal LLMs).
 
 Please reach out to the Data Science & AI Practice with questions.
-```
-
-```markdown

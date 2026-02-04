@@ -1,7 +1,4 @@
-title: Assessment Details
-sidebar:
-  order: 5
----
+# Assessment Details
 
 ## 1. Automated Baseline Test
 *   **Tools:** HackerRank / CodeSignal / Internal Platform.
@@ -40,6 +37,3 @@ The candidate is presented with a vague problem statement (e.g., *"We need to de
     *   LLM Context window management.
     *   Inference optimization (batching, quantization).
     *   Feedback loops and retraining pipelines.
-```
-
-```markdown

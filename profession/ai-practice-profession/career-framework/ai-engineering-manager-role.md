@@ -1,7 +1,4 @@
-title: Data Science Manager (DSM) Role
-sidebar:
-  order: 4
----
+# AI Engineering Manager Role
 
 ## Why Data Science Management is Different
 
@@ -45,8 +42,3 @@ Unlike a standard SWE team, an AI team is heterogeneous. The DSM must:
 ## Transitioning to AI EM
 
 We encourage Senior/Staff Data Scientists and AI Engineers (Grade I+) to transition into this role. The transition requires a shift from "optimizing model accuracy" to "optimizing team throughput and business impact."
-```
-
-### Part 2: Interview Process Documentation
-
-```markdown

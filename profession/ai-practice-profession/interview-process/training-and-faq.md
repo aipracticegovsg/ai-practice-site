@@ -1,7 +1,4 @@
-title: Training & FAQ
-sidebar:
-  order: 7
----
+# Training & FAQ
 
 ## Interviewer Training
 
@@ -30,6 +27,3 @@ In the real world, they will use AI tools. We want to see *how* they use it. Do 
 
 ### Q: What if the candidate doesn't know the specific stack (e.g., PyTorch vs TensorFlow)?
 **A:** We hire for **Aptitude over Syntax**. If they know TensorFlow deeply, they can learn PyTorch. Focus on their understanding of the underlying concepts (tensors, gradients, graphs).
-```
-
-```markdown

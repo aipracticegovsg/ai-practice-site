@@ -23,7 +23,9 @@ To ensure we hire "M-shaped" individuals, the panel must represent both breadth 
 -   **Scoring:** Use the standardized scorecard. Avoid "gut feeling."
 
 ## Decision Meeting (Bar Raiser)
+
 After all rounds, the panel convenes.
+
 -   **Review:** Discuss the "4 Signals" (Agility, Pace, Baseline, Depth).
 -   **Consensus:** Was the "Baseline" met? Was the "Depth" sufficient for the specific role?
 -   **Leveling:** Does the candidate fit the applied grade, or should they be leveled up/down?

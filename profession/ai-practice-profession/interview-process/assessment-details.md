@@ -31,6 +31,7 @@ The candidate is presented with a vague problem statement (e.g., *"We need to de
 - **Success Indicator:** The candidate can explain complex concepts simply and defend their technical choices without being defensive.
 
 ## 4. AI System Design (For Senior+)
+
 -   **Scenario:** High-scale, production AI system.
 -   **Topics:**
     -   Vector Database scaling.

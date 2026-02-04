@@ -8,7 +8,7 @@ To ensure we hire "M-shaped" individuals, the panel must represent both breadth 
 
 1.  **Hiring Manager:** Owns the "Fit" and overall decision.
 2.  **1 x Domain Expert (Depth):**
-    -   If hiring for applied scientist, this interviewer must be at least a senior applied scientist.
+    -   If hiring for Applied Scientist, this interviewer must also be an Applied Scientist.
     -   Conducts the **Peer Discussion**.
 3.  **1 x Cross-Functional Practitioner (Breadth):**
     -   If hiring a Researcher, this should be an AI Engineer (and vice versa).

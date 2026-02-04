@@ -32,7 +32,7 @@ Unlike a standard SWE team, an AI team is heterogeneous. The DSM must:
 ### 3. Technical Strategy & Ethics
 
 -   **Buy vs. Build:** Deciding when to use an off-the-shelf API (e.g., OpenAI, Anthropic) vs. fine-tuning an open-source model.
--   **AI Safety:** enforcing guardrails, bias testing, and responsible AI practices.
+-   **AI Safety:** Enforcing guardrails, bias testing, and responsible AI practices.
 
 ---
 

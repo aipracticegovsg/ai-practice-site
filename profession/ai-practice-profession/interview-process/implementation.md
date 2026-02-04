@@ -8,11 +8,14 @@ To ensure we hire "M-shaped" individuals, the panel must represent both breadth 
 
 1.  **Hiring Manager:** Owns the "Fit" and overall decision.
 2.  **1 x Domain Expert (Depth):**
-    -   If hiring for NLP, this interviewer must be L3 in NLP.
+    -   If hiring for applied scientist, this interviewer must be at least a senior applied scientist.
     -   Conducts the **Peer Discussion**.
 3.  **1 x Cross-Functional Practitioner (Breadth):**
     -   If hiring a Researcher, this should be an AI Engineer (and vice versa).
     -   Ensures the candidate can collaborate across the Research/Engineering divide.
+
+Note: Domain experts and cross-functional practicioner will be sourced from *the whole of GovTech* and not just from AI Practice. If possible, at least one of them should be from the hiring team.  
+
 
 ## Conducting the Live Case Study
 

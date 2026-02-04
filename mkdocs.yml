@@ -1,0 +1,72 @@
+site_name: GovTech AI Practice - Career Framework & Interview Process
+site_description: Data Science & AI Engineering Career Framework and Interview Process for GovTech
+site_author: GovTech AI Practice
+site_url: https://aipracticegovsg.github.io/ai-practice-site/
+
+repo_name: aipracticegovsg/ai-practice-site
+repo_url: https://github.com/aipracticegovsg/ai-practice-site
+
+docs_dir: profession/ai-practice-profession
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Career Framework:
+      - Overview: career-framework/index.md
+      - Framing: career-framework/framing.md
+      - Redefining DS & AI Roles: career-framework/redefine-data-ai-roles.md
+      - AI Engineering Manager Role: career-framework/ai-engineering-manager-role.md
+  - Interview Process:
+      - Overview: interview-process/index.md
+      - Process Overview: interview-process/process-overview.md
+      - Assessment Details: interview-process/assessment-details.md
+      - Implementation: interview-process/implementation.md
+      - Training & FAQ: interview-process/training-and-faq.md
+      - Special Considerations: interview-process/special-considerations.md

@@ -1,0 +1,554 @@
+Here are the comprehensive markdown documentation files for the Data Scientist and AI Engineer career tracks and hiring processes, adapted from the provided PowerPoint and SWE reference materials.
+
+### Part 1: Career Framework Documentation
+
+```markdown
+FILENAME: career-framework/index.md
+---
+title: Overview
+sidebar:
+  order: 1
+---
+
+Welcome to GovTech’s Data Science & AI Engineering Career Framework.
+
+This documentation defines how we grow, support, and evaluate Data Scientists, AI Engineers, and AI Leaders — with clarity, fairness, and alignment to our evolving mission in the age of Artificial Intelligence.
+
+---
+
+## 🔭 Overview
+
+These frameworks are structured around **archetypes, competencies, and impact**.
+They provide a shared language for:
+
+- **Specialization with Baseline:** Encouraging deep expertise in specific domains while maintaining essential foundational skills.
+- **Career Pathways:** Clear routes for Research Scientists, Applied Scientists, and AI Engineers.
+- **Performance & Promotion:** Calibrating impact based on behavior and outcomes, not just technical knowledge.
+
+Each framework includes:
+
+- **Archetype Definitions:** The three distinct tracks (Research, Applied, AI Engineering).
+- **Competency Maps:** The "M-shaped" skill requirements (Baseline vs. Depth).
+- **Impact Guide:** How technical outputs translate to business value.
+
+---
+
+## 📘 Framing
+
+- [Framing](/career-framework/framing/)
+  → Why we updated the track for 2026: The shift from generalist data science to specialized AI engineering.
+- [Redefining DS & AI Roles](/career-framework/redefine-data-ai-roles/)
+  → The three archetypes: Research Scientist, Applied Scientist, and AI Engineer.
+- [AI Engineering Manager Role](/career-framework/ai-engineering-manager-role/)
+  → Role definition: Managing uncertainty, bridging research to production, and leading high-velocity AI teams.
+
+---
+
+## 🧬 The "M-Shaped" Scientist/Engineer
+
+We value deep expertise. Our framework is built on the philosophy that while you must possess a broad baseline of skills, your career progression is driven by your depth in specific areas.
+
+- **Baseline:** Every role maintains foundational skills in AI Performance, Operations, and Communication.
+- **Depth (The Peak):** Achieving Level 3 (L3) mastery in one specialization qualifies you as L3 for the category.
+
+---
+
+## 🧰 Supporting Materials
+
+- **Self-Assessment Quizzes:** Test your baseline knowledge in NLP, MLOps, and Statistics.
+- **Learning Paths:** Curated resources to help you bridge gaps in your "M-shape".
+
+---
+
+## 📬 Feedback & Iteration
+
+The field of AI changes weekly. This framework is designed to be adaptive. We welcome input to keep our competencies relevant to industry developments (e.g., Agentic Systems, Multimodal LLMs).
+
+Please reach out to the Data Science & AI Practice with questions.
+```
+
+```markdown
+FILENAME: career-framework/framing.md
+---
+title: Framing
+sidebar:
+  order: 2
+---
+
+## Why We Evolved the Schema (2026 Update)
+
+Data Science at GovTech has evolved. In the past, the role was often a generalist "full-stack" position covering everything from SQL queries to model training.
+
+However, the rapid maturation of Generative AI, LLMs, and MLOps has fundamentally changed the landscape. The industry has shifted from *experimental modeling* to *engineered AI systems*.
+
+This 2026 update addresses these shifts by:
+1.  **Formalizing the AI Engineer Track:** Acknowledging that deploying scalable AI requires distinct engineering rigor separate from pure research.
+2.  **Decoupling Data Analytics:** Note that whole-of-government (WOG) Data Analysts are currently decoupled to simplify alignment, focusing this framework on Science and Engineering.
+3.  **Moving to "Archetypes":** moving away from a single "Data Scientist" title to three distinct archetypes that reflect real-world project needs.
+
+---
+
+## Competency is Necessary, But Not Sufficient
+
+A core tenet of our new framing is the distinction between **Competency** and **Impact**.
+
+| Dimension | Definition | Role in Promotion |
+| :--- | :--- | :--- |
+| **Competency** | Knowledge and skills (e.g., Transformers, Bayesian Stats, Kubernetes). | **The Baseline:** Defines your strength and direction. |
+| **Behavior & Impact** | The tangible value you drive and how you collaborate. | **The Differentiator:** Determines your professional weight and promotion readiness. |
+
+---
+
+## Guiding Principles
+
+The DS & AI framework is designed to be:
+
+| Principle | What it Means |
+| :--- | :--- |
+| **Adaptive** | Competency lists are living documents. As "Agent Systems" or "Reasoning Models" emerge, we update the sub-competencies without restructuring the whole framework. |
+| **Specialized** | We stop pretending one person can be an expert in everything. We reward depth. |
+| **Production-First** | Even Research Scientists must understand deployment constraints. "Works on my laptop" is no longer a valid deliverable. |
+
+---
+
+## Mental Model: The Specialist Core
+
+We have moved to an **"M-shaped"** (or T-shaped with multiple pillars) model.
+
+**The Philosophy:**
+"If you achieve Level 3 (L3) in one specific sub-area of AI Performance & Evaluation, you are recognized as L3 for the entire category."
+
+This allows scientists to dive deep into their passions (e.g., NLP, Computer Vision, or MLOps) while meeting the overall track standards through essential baselines.
+```
+
+```markdown
+FILENAME: career-framework/redefine-data-ai-roles.md
+---
+title: Redefining DS & AI Roles
+sidebar:
+  order: 3
+---
+
+**Status**: Aligned for 2026 Profession Track Update
+
+## The Three Archetypes
+
+To better align with industry standards and internal project needs, we have defined three core archetypes. An individual may drift between these over their career, but at any given time, their role should align with one primary focus.
+
+### 1. Research Scientist
+**"The Explorer"**
+*   **Focus:** Improving performance through experimentation with technologies from academia and industry.
+*   **Mission:** Pushes the boundaries of what is technically possible.
+*   **Key Output:** Novel model architectures, white papers, proof-of-concepts (POCs) that solve previously unsolvable problems.
+*   **Primary Competency:** AI Performance & Evaluation.
+
+### 2. Applied Scientist
+**"The Bridge"**
+*   **Focus:** Identifying relevant technologies and applying them effectively to real-world problems.
+*   **Mission:** Balances model performance with business constraints and communication.
+*   **Key Output:** Production-grade models, technical strategy, translation of business needs into mathematical problems.
+*   **Primary Competency:** Data Analysis & Communication / AI Performance.
+
+### 3. AI Engineer
+**"The Builder"**
+*   **Focus:** Masters of infrastructure, operations, and system design.
+*   **Mission:** Ensures technologies are deployed in a fast, scalable, and secure manner.
+*   **Key Output:** Inference pipelines, RAG systems, MLOps platforms, optimized latency/throughput.
+*   **Primary Competency:** AI Operation & Deployment.
+
+---
+
+## The Competency Map
+
+We map these archetypes against three broad domains. Crucially, the list of sub-competencies is **adaptive** to allow for rapid industry updates.
+
+### Domain 1: AI Performance & Evaluation
+*Rigorous assessment of AI model performance and continuous evaluation.*
+*   **Sub-competencies:**
+    *   **Statistical Techniques:** Probability, experimental design, causal inference, Bayesian stats.
+    *   **Model Evaluation:** Advanced metrics, benchmarking, human-in-the-loop eval.
+    *   **Machine Learning:** Traditional ML (Trees, Boosting) and Deep Learning.
+    *   **NLP & LLMs:** Transformers, Attention mechanisms, Multimodal architectures.
+
+### Domain 2: AI Operation & Deployment
+*Practical expertise in managing AI life-cycles and secure deployment.*
+*   **Sub-competencies:**
+    *   **MLOps:** CI/CD for ML, model registry, feature stores.
+    *   **Optimization:** Quantization, distillation, algorithmic efficiency, latency reduction.
+    *   **System Design:** Agentic patterns (ReACT), vector database management, scalable inference.
+
+### Domain 3: Data Analysis & Communication
+*Transforming complex results into actionable narratives.*
+*   **Sub-competencies:**
+    *   **Visualization:** Communicating uncertainty and probability to non-technical stakeholders.
+    *   **Product Sense:** Translating vague problem statements into strict data requirements.
+
+---
+
+## Baseline vs. Specialization
+
+Every role requires a **Baseline** in all three domains, but **Specialization** in their archetype's primary domain.
+
+**Example Baseline Requirements (Must Have):**
+*   **NLP:** Understand basic principles of Transformers (Attention).
+*   **MLOps:** Understand basic components of an ML system design.
+*   **Statistics:** Pass basic hypothesis testing and probability checks.
+
+*Note: We provide self-testing quizzes for these baselines. If you don't know it, learn it now.*
+```
+
+```markdown
+FILENAME: career-framework/ai-engineering-manager-role.md
+---
+title: AI Engineering Manager (AI EM) Role
+sidebar:
+  order: 4
+---
+
+## Why AI Engineering Management is Different
+
+Managing AI teams presents unique challenges compared to traditional software engineering. The **AI Engineering Manager (AI EM)** must bridge the deterministic world of software engineering with the probabilistic world of machine learning.
+
+### The Core Conflict
+*   **Software Engineering:** Deterministic. Input A + Code B = Output C.
+*   **AI/Research:** Probabilistic. Input A + Code B = Output C (maybe, with 85% accuracy).
+
+The AI EM's primary role is managing this **uncertainty risk** while ensuring the team delivers tangible value.
+
+---
+
+## Responsibilities
+
+### 1. Managing Research Velocity vs. Production Stability
+*   **Research Mode:** Creating space for the "Research Scientist" to fail fast and experiment without bureaucratic overhead.
+*   **Production Mode:** Enforcing strict rigor (testing, linting, latency budgets) for the "AI Engineer" when deploying models.
+*   **The Balance:** Knowing when to switch a project from research to production.
+
+### 2. Talent Archetype Management
+Unlike a standard SWE team, an AI team is heterogeneous. The AI EM must:
+*   Coach **Research Scientists** on code quality and reproducibility.
+*   Coach **AI Engineers** on statistical validity and model behavior.
+*   Ensure **Applied Scientists** are effectively translating between the two.
+
+### 3. Technical Strategy & Ethics
+*   **Buy vs. Build:** Deciding when to use an off-the-shelf API (e.g., OpenAI, Anthropic) vs. fine-tuning an open-source model.
+*   **AI Safety:** enforcing guardrails, bias testing, and responsible AI practices.
+
+---
+
+## Competencies for AI EMs
+
+| Competency | Description |
+| :--- | :--- |
+| **Probabilistic Thinking** | Ability to plan roadmaps around deliverables that have success rates, not just completion dates. |
+| **Data Strategy** | Understanding data acquisition, labeling costs, and privacy implications (GDPR/PDPA). |
+| **Full-Stack Awareness** | Sufficient knowledge of the modern AI stack (Vector DBs, Orchestration, GPUs) to make architectural decisions. |
+
+## Transitioning to AI EM
+
+We encourage Senior/Staff Applied Scientists and AI Engineers (Grade I+) to transition into this role. The transition requires a shift from "optimizing model accuracy" to "optimizing team throughput and business impact."
+```
+
+### Part 2: Interview Process Documentation
+
+```markdown
+FILENAME: interview-process/index.md
+---
+title: Overview
+sidebar:
+  order: 1
+---
+
+![AI Interview Overview](./ai-interview-intro.png)
+
+Welcome to GovTech's Data Science & AI Engineering Interview Process.
+
+This documentation establishes a standardized, rigorous, and practical interview process for Data Scientists and AI Engineers (Grades D-K). It is designed to identify "M-shaped" talent—practitioners with strong baselines and deep specialization.
+
+**Key Features:**
+*   **Archetype-Specific Tracks:** tailored assessments for Research, Applied, and AI Engineering roles.
+*   **Practical Over Theoretical:** Focus on "live" problem solving and case studies rather than rote memorization of algorithms.
+*   **Two-Way Evaluation:** Peer discussions that allow candidates to teach us, ensuring deep technical alignment.
+
+## Documentation Structure
+
+- [Framing & Rationale](/interview-process/framing/)
+  → Why we focus on agility, pace, and depth.
+- [Process Overview](/interview-process/process-overview/)
+  → The stages: Screening, Technical Assessment, Case Studies, and Fit.
+- [Assessment Details](/interview-process/assessment-details/)
+  → Deep dive into the "Live Case Study" and "Peer Discussion" formats.
+- [Implementation](/interview-process/implementation/)
+  → Panel composition and scoring rubrics.
+
+## Who is this for?
+Hiring Managers and Interviewers within the Data Science & AI Practice looking to hire for:
+*   Data Scientists (Research/Applied)
+*   AI Engineers
+*   AI Engineering Managers
+```
+
+```markdown
+FILENAME: interview-process/framing.md
+---
+title: Framing & Rationale
+sidebar:
+  order: 2
+---
+
+## Framing: Modernized Hiring for 2026
+
+The landscape of AI hiring is broken. Traditional LeetCode-style interviews fail to capture a Data Scientist's intuition, while academic whiteboard sessions fail to assess an AI Engineer's coding standards.
+
+Our "Modernized Hiring" strategy focuses on standardizing intake to identify the right **archetypes** and **skill fits** from day one.
+
+---
+
+## Rationale: What We Test
+
+We are moving away from "trivia" (e.g., "Explain the formula for backpropagation") toward **Behavioral and Practical** signals.
+
+### The 4 Signals
+We look for these four specific traits during the process:
+
+1.  **⚡ Agility:** Quick thinking and on-the-spot reasoning. Can the candidate pivot when the data changes?
+2.  **⏳ Pace:** The ability to solve problems within realistic timeframes (simulated via time-boxed case studies).
+3.  **🧱 Baseline:** Non-negotiable scripting (Python/SQL) and core ML model building skills.
+4.  **🌟 Depth:** Mastery over specific specialized topics (The "M" shape).
+
+### The Shift in Assessment
+*   **Old Way:** Take-home datasets that take 1 week (High drop-off, easy to cheat).
+*   **New Way:** Live Case Studies and Problem Decomposition sessions.
+
+We value the **process of thinking** over the syntax of the solution.
+```
+
+```markdown
+FILENAME: interview-process/process-overview.md
+---
+title: Process Overview
+sidebar:
+  order: 3
+---
+
+## The Interview Process
+
+The process differs slightly based on the **Archetype** (Research/Applied vs. AI Engineer) and the **Grade**.
+
+---
+
+## 1. Data Scientist (Research & Applied) / AI Engineer (Grades D-H)
+
+1.  **CV & Archetype Screen**
+    *   **Goal:** Match candidate to the correct track (Research, Applied, or Engineering).
+2.  **Automated Proficiency Test (Baseline)**
+    *   **Content:** Statistics, Basic ML concepts, Scripting (Python/SQL).
+    *   **Rationale:** A gate for volume; ensures the "Essential Baseline" exists.
+3.  **Live Case Study (Problem Decomposition)**
+    *   **Format:** 1.5 - 2 hour live session (or condensed 1.5-day take-home followed by review, depending on role seniority).
+    *   **Focus:** End-to-end problem solving. From "vague business problem" to "model strategy."
+4.  **Technical Deep Dive / Peer Discussion**
+    *   **Format:** Candidate presents a topic of their choice or reviews a past project.
+    *   **Goal:** Assess **Depth** and communication.
+5.  **Candidate Fit Discussion**
+    *   **Focus:** Cultural alignment, team fit, growth mindset.
+
+---
+
+## 2. Senior / Staff / Principal (Grades I-K)
+
+1.  **CV & Portfolio Review**
+    *   **Special:** Review of publications (Research) or GitHub/System Architecture (AI Eng).
+2.  **Live Case Study (System Design)**
+    *   **AI Engineer Focus:** Designing a scalable RAG pipeline, Inference architecture, or MLOps system.
+    *   **Scientist Focus:** Designing an experimental framework for a complex, ambiguous problem.
+3.  **Two-Way Peer Discussion**
+    *   **Format:** "Teach us something new."
+    *   **Rationale:** At this level, candidates should be experts. We look for critical thinking and the ability to elevate the team's knowledge.
+4.  **Leadership & Fit (Managerial Focus)**
+    *   For Staff+, assessment of mentorship and technical strategy capabilities.
+
+---
+
+## Summary Table
+
+| Stage | Duration | Conducted By | Purpose |
+| :--- | :--- | :--- | :--- |
+| **Baseline Test** | 1 hour | Automated | Verify Scripting/Stats basics. |
+| **Live Case Study** | 1.5 - 2 hours | Senior Engineer/Scientist | Assess "Agility" and "Pace". |
+| **Peer Discussion** | 1 hour | Domain Expert | Assess "Depth" and Specialization. |
+| **Fit Discussion** | 1 hour | Hiring Manager | Team fit & Soft skills. |
+```
+
+```markdown
+FILENAME: interview-process/assessment-details.md
+---
+title: Assessment Details
+sidebar:
+  order: 5
+---
+
+## 1. Automated Baseline Test
+*   **Tools:** HackerRank / CodeSignal / Internal Platform.
+*   **Content:**
+    *   **All Roles:** Python scripting (pandas/numpy manipulation), SQL basics.
+    *   **DS Track:** Probability questions, Hypothesis testing, Basic ML theory (bias/variance).
+    *   **AI Eng Track:** Algorithmic complexity, Basic API construction, System basics.
+*   **Passing Criteria:** Must demonstrate fluency. We do not test for "trick" questions.
+
+## 2. Live Case Study (The Core)
+This is the most critical part of the process.
+
+**Format:**
+The candidate is presented with a vague problem statement (e.g., *"We need to detect fraud in this transaction stream"* or *"Build a RAG system for our internal policy documents"*).
+
+**Evaluation Rubric:**
+*   **Problem Decomposition:** Did they break the massive problem into solvable chunks?
+*   **Metric Selection:** Did they choose the right success metric (e.g., Precision vs. Recall, Latency vs. Cost)?
+*   **Data Strategy:** Did they ask about data availability, labels, and bias?
+*   **Modeling:** Did they select an appropriate baseline model before jumping to complex LLMs?
+*   **Production Awareness:** (Crucial for AI Engineers) Did they mention latency, cost, and monitoring?
+
+## 3. Two-Way Peer Discussion
+*   **Format:** 45-60 mins.
+*   **Prompt:** "Present a project you are proud of, or a technical topic you have deep expertise in."
+*   **Goal:** To test **Depth**.
+*   **Interaction:** The panel will interrupt with "Why?" questions.
+    *   *"Why did you choose that loss function?"*
+    *   *"What happened when the data distribution shifted?"*
+*   **Success Indicator:** The candidate can explain complex concepts simply and defend their technical choices without being defensive.
+
+## 4. AI System Design (For Senior+)
+*   **Scenario:** High-scale, production AI system.
+*   **Topics:**
+    *   Vector Database scaling.
+    *   LLM Context window management.
+    *   Inference optimization (batching, quantization).
+    *   Feedback loops and retraining pipelines.
+```
+
+```markdown
+FILENAME: interview-process/implementation.md
+---
+title: Implementation
+sidebar:
+  order: 6
+---
+
+## Interview Panel Composition
+
+To ensure we hire "M-shaped" individuals, the panel must represent both breadth and depth.
+
+### Minimum Panel Requirements
+
+1.  **Hiring Manager:** Owns the "Fit" and overall decision.
+2.  **1 x Domain Expert (Depth):**
+    *   If hiring for NLP, this interviewer must be L3 in NLP.
+    *   Conducts the **Peer Discussion**.
+3.  **1 x Cross-Functional Practitioner (Breadth):**
+    *   If hiring a Researcher, this should be an AI Engineer (and vice versa).
+    *   Ensures the candidate can collaborate across the Research/Engineering divide.
+
+## Conducting the Live Case Study
+
+*   **Preparation:** Interviewers must review the case study materials beforehand.
+*   **During Session:**
+    *   Act as a "co-pilot," not a proctor.
+    *   If the candidate gets stuck, offer a hint to unblock them. We want to see how far they can get, not where they get stuck.
+*   **Scoring:** Use the standardized scorecard. Avoid "gut feeling."
+
+## Decision Meeting (Bar Raiser)
+After all rounds, the panel convenes.
+*   **Review:** Discuss the "4 Signals" (Agility, Pace, Baseline, Depth).
+*   **Consensus:** Was the "Baseline" met? Was the "Depth" sufficient for the specific role?
+*   **Leveling:** Does the candidate fit the applied grade, or should they be leveled up/down?
+```
+
+```markdown
+FILENAME: interview-process/training-and-faq.md
+---
+title: Training & FAQ
+sidebar:
+  order: 7
+---
+
+## Interviewer Training
+
+### Shadowing
+New interviewers must shadow at least 2 Live Case Studies and 2 Peer Discussions before conducting one in reverse-shadow (being observed).
+
+### Calibration
+We hold quarterly calibration sessions where interviewers review anonymized packets to ensure that a "Strong Hire" in Team A is equivalent to a "Strong Hire" in Team B.
+
+---
+
+## FAQ
+
+### Q: The candidate is a great Researcher but has weak engineering skills.
+**A:** Check the role.
+*   If hiring for **Research Scientist**: Do they meet the *Baseline* for engineering (can they write clean-ish code)? If yes, hire.
+*   If hiring for **AI Engineer**: No hire. The engineering bar is non-negotiable for this track.
+
+### Q: Can we skip the Automated Test for Senior candidates?
+**A:** For Grade I (Senior) and below, No. For Grade J (Staff/Lead) and above, Yes—we rely on the System Design and Portfolio review to assess technical competence.
+
+### Q: The candidate wants to use ChatGPT during the Live Case Study.
+**A:** **Yes, allow it.**
+In the real world, they will use AI tools. We want to see *how* they use it. Do they blindly copy-paste code, or do they use it to accelerate boilerplate generation while focusing on the logic?
+*   *Constraint:* They must be able to explain every line of code generated.
+
+### Q: What if the candidate doesn't know the specific stack (e.g., PyTorch vs TensorFlow)?
+**A:** We hire for **Aptitude over Syntax**. If they know TensorFlow deeply, they can learn PyTorch. Focus on their understanding of the underlying concepts (tensors, gradients, graphs).
+```
+
+```markdown
+FILENAME: interview-process/special-considerations.md
+---
+title: Special Considerations
+sidebar:
+  order: 4
+---
+
+## Overview
+
+Data Science and AI talent pools are diverse. Candidates come from purely academic backgrounds, software engineering transitions, or self-taught pathways.
+
+## Academic Candidates (PhD/Post-Doc)
+
+For candidates coming directly from academia (targeting Research Scientist roles):
+*   **Portfolio:** Published papers (NeurIPS, ICLR, CVPR) can replace portions of the technical screen if they demonstrate clear code implementation.
+*   **Adjustment:** Be lenient on "Production Engineering" questions (CI/CD, Kubernetes) but strict on "Scientific Rigor" and "Math."
+*   **Leveling:** A fresh PhD graduate typically maps to a mid-level (Grade E/F) individual contributor role, not a Senior role, unless they have significant industry experience.
+
+## Internal Transfers (SWE to AI Engineer)
+
+For Software Engineers within GovTech wishing to transfer to the AI Practice:
+*   **Gap Analysis:** Focus the interview heavily on the **AI/ML Baseline** (Statistics, Model Evaluation). We already know they can code.
+*   **Apprenticeship:** We offer a specialized "Conversion & Apprenticeship" track (referenced in Slide 2) for internal talent. If they show high potential but lack specific ML depth, consider hiring with a conditional training plan.
+
+## Niche Specializations
+
+If hiring for a highly specific niche (e.g., Reinforcement Learning for Robotics):
+*   **External Expert:** If no internal L3 expert exists to conduct the Peer Discussion, invite a trusted external expert or an expert from another government agency to sit on the panel.
+```
+
+### Summary of Outputs
+
+I have generated the following documentation structure, mirroring the SWE reference materials but tailored for DS/AI:
+
+1.  **Career Framework:**
+    *   Defined **3 Archetypes** (Research, Applied, AI Eng) to replace the generic "Data Scientist".
+    *   Implemented the **"M-Shaped" Competency Model** (Baseline in all, Depth in one).
+    *   Created a specific **AI Engineering Manager** role description that addresses the unique challenge of managing probabilistic software.
+
+2.  **Interview Process:**
+    *   Designed a **4-Stage Process** focusing on Agility, Pace, Baseline, and Depth.
+    *   Replaced standard "System Design" with **"Live Case Studies"** and **"Peer Discussions"**.
+    *   Added specific guidance for **GenAI/LLM assessments** (allowing ChatGPT use, testing for RAG/Agents).
+    *   Included **Special Considerations** for academic PhDs vs. engineering transfers.
+
+**Key Adaptations from SWE to DS/AI:**
+*   **Uncertainty Management:** Explicitly added competencies regarding managing probabilistic outcomes (vs deterministic software).
+*   **Archetypes:** Split the single "Software Engineer" track into three distinct flavors to reflect the reality of the AI market in 2026.
+*   **Assessment Style:** Shifted from "LeetCode" to "Case Study/Problem Decomposition" as the primary signal generator, acknowledging that AI problems are often open-ended.
+*   **Tool Usage:** Explicitly authorized the use of AI tools during interviews to reflect modern workflow.
